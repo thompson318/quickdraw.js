@@ -1,0 +1,345 @@
+/home/thompson/data/quickdrawings/bush.ndjson
+/home/thompson/data/quickdrawings/line.ndjson
+/home/thompson/data/quickdrawings/rake.ndjson
+/home/thompson/data/quickdrawings/bandage.ndjson
+/home/thompson/data/quickdrawings/hat.ndjson
+/home/thompson/data/quickdrawings/lobster.ndjson
+/home/thompson/data/quickdrawings/nose.ndjson
+/home/thompson/data/quickdrawings/firetruck.ndjson
+/home/thompson/data/quickdrawings/whale.ndjson
+/home/thompson/data/quickdrawings/hexagon.ndjson
+/home/thompson/data/quickdrawings/hot tub.ndjson
+/home/thompson/data/quickdrawings/squirrel.ndjson
+/home/thompson/data/quickdrawings/spider.ndjson
+/home/thompson/data/quickdrawings/table.ndjson
+/home/thompson/data/quickdrawings/camel.ndjson
+/home/thompson/data/quickdrawings/snowflake.ndjson
+/home/thompson/data/quickdrawings/scissors.ndjson
+/home/thompson/data/quickdrawings/airplane.ndjson
+/home/thompson/data/quickdrawings/bicycle.ndjson
+/home/thompson/data/quickdrawings/toaster.ndjson
+/home/thompson/data/quickdrawings/boomerang.ndjson
+/home/thompson/data/quickdrawings/telephone.ndjson
+/home/thompson/data/quickdrawings/lighthouse.ndjson
+/home/thompson/data/quickdrawings/shark.ndjson
+/home/thompson/data/quickdrawings/spreadsheet.ndjson
+/home/thompson/data/quickdrawings/waterslide.ndjson
+/home/thompson/data/quickdrawings/asparagus.ndjson
+/home/thompson/data/quickdrawings/roller coaster.ndjson
+/home/thompson/data/quickdrawings/remote control.ndjson
+/home/thompson/data/quickdrawings/mailbox.ndjson
+/home/thompson/data/quickdrawings/broccoli.ndjson
+/home/thompson/data/quickdrawings/ladder.ndjson
+/home/thompson/data/quickdrawings/bird.ndjson
+/home/thompson/data/quickdrawings/bulldozer.ndjson
+/home/thompson/data/quickdrawings/truck.ndjson
+/home/thompson/data/quickdrawings/underwear.ndjson
+/home/thompson/data/quickdrawings/campfire.ndjson
+/home/thompson/data/quickdrawings/animal migration.ndjson
+/home/thompson/data/quickdrawings/river.ndjson
+/home/thompson/data/quickdrawings/marker.ndjson
+/home/thompson/data/quickdrawings/beach.ndjson
+/home/thompson/data/quickdrawings/tornado.ndjson
+/home/thompson/data/quickdrawings/leg.ndjson
+/home/thompson/data/quickdrawings/paintbrush.ndjson
+/home/thompson/data/quickdrawings/onion.ndjson
+/home/thompson/data/quickdrawings/cactus.ndjson
+/home/thompson/data/quickdrawings/potato.ndjson
+/home/thompson/data/quickdrawings/moon.ndjson
+/home/thompson/data/quickdrawings/clock.ndjson
+/home/thompson/data/quickdrawings/tiger.ndjson
+/home/thompson/data/quickdrawings/picture frame.ndjson
+/home/thompson/data/quickdrawings/skyscraper.ndjson
+/home/thompson/data/quickdrawings/pillow.ndjson
+/home/thompson/data/quickdrawings/laptop.ndjson
+/home/thompson/data/quickdrawings/basketball.ndjson
+/home/thompson/data/quickdrawings/hand.ndjson
+/home/thompson/data/quickdrawings/mouse.ndjson
+/home/thompson/data/quickdrawings/hot air balloon.ndjson
+/home/thompson/data/quickdrawings/stethoscope.ndjson
+/home/thompson/data/quickdrawings/peanut.ndjson
+/home/thompson/data/quickdrawings/cello.ndjson
+/home/thompson/data/quickdrawings/fireplace.ndjson
+/home/thompson/data/quickdrawings/bench.ndjson
+/home/thompson/data/quickdrawings/crown.ndjson
+/home/thompson/data/quickdrawings/nail.ndjson
+/home/thompson/data/quickdrawings/guitar.ndjson
+/home/thompson/data/quickdrawings/pickup truck.ndjson
+/home/thompson/data/quickdrawings/stop sign.ndjson
+/home/thompson/data/quickdrawings/ant.ndjson
+/home/thompson/data/quickdrawings/bee.ndjson
+/home/thompson/data/quickdrawings/zebra.ndjson
+/home/thompson/data/quickdrawings/zigzag.ndjson
+/home/thompson/data/quickdrawings/skateboard.ndjson
+/home/thompson/data/quickdrawings/moustache.ndjson
+/home/thompson/data/quickdrawings/cow.ndjson
+/home/thompson/data/quickdrawings/ambulance.ndjson
+/home/thompson/data/quickdrawings/square.ndjson
+/home/thompson/data/quickdrawings/sun.ndjson
+/home/thompson/data/quickdrawings/microwave.ndjson
+/home/thompson/data/quickdrawings/ocean.ndjson
+/home/thompson/data/quickdrawings/radio.ndjson
+/home/thompson/data/quickdrawings/see saw.ndjson
+/home/thompson/data/quickdrawings/stitches.ndjson
+/home/thompson/data/quickdrawings/shorts.ndjson
+/home/thompson/data/quickdrawings/sword.ndjson
+/home/thompson/data/quickdrawings/church.ndjson
+/home/thompson/data/quickdrawings/squiggle.ndjson
+/home/thompson/data/quickdrawings/ice cream.ndjson
+/home/thompson/data/quickdrawings/bridge.ndjson
+/home/thompson/data/quickdrawings/belt.ndjson
+/home/thompson/data/quickdrawings/dragon.ndjson
+/home/thompson/data/quickdrawings/arm.ndjson
+/home/thompson/data/quickdrawings/bread.ndjson
+/home/thompson/data/quickdrawings/grapes.ndjson
+/home/thompson/data/quickdrawings/wristwatch.ndjson
+/home/thompson/data/quickdrawings/stove.ndjson
+/home/thompson/data/quickdrawings/dog.ndjson
+/home/thompson/data/quickdrawings/feather.ndjson
+/home/thompson/data/quickdrawings/floor lamp.ndjson
+/home/thompson/data/quickdrawings/trumpet.ndjson
+/home/thompson/data/quickdrawings/speedboat.ndjson
+/home/thompson/data/quickdrawings/postcard.ndjson
+/home/thompson/data/quickdrawings/golf club.ndjson
+/home/thompson/data/quickdrawings/traffic light.ndjson
+/home/thompson/data/quickdrawings/cruise ship.ndjson
+/home/thompson/data/quickdrawings/carrot.ndjson
+/home/thompson/data/quickdrawings/steak.ndjson
+/home/thompson/data/quickdrawings/The Mona Lisa.ndjson
+/home/thompson/data/quickdrawings/flashlight.ndjson
+/home/thompson/data/quickdrawings/door.ndjson
+/home/thompson/data/quickdrawings/pig.ndjson
+/home/thompson/data/quickdrawings/crocodile.ndjson
+/home/thompson/data/quickdrawings/toothpaste.ndjson
+/home/thompson/data/quickdrawings/passport.ndjson
+/home/thompson/data/quickdrawings/peas.ndjson
+/home/thompson/data/quickdrawings/oven.ndjson
+/home/thompson/data/quickdrawings/candle.ndjson
+/home/thompson/data/quickdrawings/dresser.ndjson
+/home/thompson/data/quickdrawings/cookie.ndjson
+/home/thompson/data/quickdrawings/pencil.ndjson
+/home/thompson/data/quickdrawings/lipstick.ndjson
+/home/thompson/data/quickdrawings/alarm clock.ndjson
+/home/thompson/data/quickdrawings/mosquito.ndjson
+/home/thompson/data/quickdrawings/elephant.ndjson
+/home/thompson/data/quickdrawings/foot.ndjson
+/home/thompson/data/quickdrawings/broom.ndjson
+/home/thompson/data/quickdrawings/hourglass.ndjson
+/home/thompson/data/quickdrawings/string bean.ndjson
+/home/thompson/data/quickdrawings/tennis racquet.ndjson
+/home/thompson/data/quickdrawings/snail.ndjson
+/home/thompson/data/quickdrawings/giraffe.ndjson
+/home/thompson/data/quickdrawings/chandelier.ndjson
+/home/thompson/data/quickdrawings/fan.ndjson
+/home/thompson/data/quickdrawings/snake.ndjson
+/home/thompson/data/quickdrawings/car.ndjson
+/home/thompson/data/quickdrawings/bed.ndjson
+/home/thompson/data/quickdrawings/power outlet.ndjson
+/home/thompson/data/quickdrawings/wheel.ndjson
+/home/thompson/data/quickdrawings/hot dog.ndjson
+/home/thompson/data/quickdrawings/anvil.ndjson
+/home/thompson/data/quickdrawings/helmet.ndjson
+/home/thompson/data/quickdrawings/windmill.ndjson
+/home/thompson/data/quickdrawings/sailboat.ndjson
+/home/thompson/data/quickdrawings/rain.ndjson
+/home/thompson/data/quickdrawings/headphones.ndjson
+/home/thompson/data/quickdrawings/angel.ndjson
+/home/thompson/data/quickdrawings/swan.ndjson
+/home/thompson/data/quickdrawings/dumbbell.ndjson
+/home/thompson/data/quickdrawings/star.ndjson
+/home/thompson/data/quickdrawings/fence.ndjson
+/home/thompson/data/quickdrawings/helicopter.ndjson
+/home/thompson/data/quickdrawings/crab.ndjson
+/home/thompson/data/quickdrawings/jail.ndjson
+/home/thompson/data/quickdrawings/chair.ndjson
+/home/thompson/data/quickdrawings/The Eiffel Tower.ndjson
+/home/thompson/data/quickdrawings/bucket.ndjson
+/home/thompson/data/quickdrawings/fork.ndjson
+/home/thompson/data/quickdrawings/goatee.ndjson
+/home/thompson/data/quickdrawings/diving board.ndjson
+/home/thompson/data/quickdrawings/cake.ndjson
+/home/thompson/data/quickdrawings/tooth.ndjson
+/home/thompson/data/quickdrawings/toe.ndjson
+/home/thompson/data/quickdrawings/donut.ndjson
+/home/thompson/data/quickdrawings/watermelon.ndjson
+/home/thompson/data/quickdrawings/mug.ndjson
+/home/thompson/data/quickdrawings/baseball.ndjson
+/home/thompson/data/quickdrawings/sheep.ndjson
+/home/thompson/data/quickdrawings/key.ndjson
+/home/thompson/data/quickdrawings/blueberry.ndjson
+/home/thompson/data/quickdrawings/apple.ndjson
+/home/thompson/data/quickdrawings/parrot.ndjson
+/home/thompson/data/quickdrawings/house plant.ndjson
+/home/thompson/data/quickdrawings/bowtie.ndjson
+/home/thompson/data/quickdrawings/blackberry.ndjson
+/home/thompson/data/quickdrawings/octagon.ndjson
+/home/thompson/data/quickdrawings/lighter.ndjson
+/home/thompson/data/quickdrawings/cloud.ndjson
+/home/thompson/data/quickdrawings/tree.ndjson
+/home/thompson/data/quickdrawings/snorkel.ndjson
+/home/thompson/data/quickdrawings/book.ndjson
+/home/thompson/data/quickdrawings/hammer.ndjson
+/home/thompson/data/quickdrawings/parachute.ndjson
+/home/thompson/data/quickdrawings/shoe.ndjson
+/home/thompson/data/quickdrawings/camera.ndjson
+/home/thompson/data/quickdrawings/finger.ndjson
+/home/thompson/data/quickdrawings/hurricane.ndjson
+/home/thompson/data/quickdrawings/owl.ndjson
+/home/thompson/data/quickdrawings/butterfly.ndjson
+/home/thompson/data/quickdrawings/crayon.ndjson
+/home/thompson/data/quickdrawings/circle.ndjson
+/home/thompson/data/quickdrawings/streetlight.ndjson
+/home/thompson/data/quickdrawings/camouflage.ndjson
+/home/thompson/data/quickdrawings/cooler.ndjson
+/home/thompson/data/quickdrawings/octopus.ndjson
+/home/thompson/data/quickdrawings/violin.ndjson
+/home/thompson/data/quickdrawings/lightning.ndjson
+/home/thompson/data/quickdrawings/sandwich.ndjson
+/home/thompson/data/quickdrawings/bat.ndjson
+/home/thompson/data/quickdrawings/triangle.ndjson
+/home/thompson/data/quickdrawings/strawberry.ndjson
+/home/thompson/data/quickdrawings/soccer ball.ndjson
+/home/thompson/data/quickdrawings/couch.ndjson
+/home/thompson/data/quickdrawings/skull.ndjson
+/home/thompson/data/quickdrawings/bathtub.ndjson
+/home/thompson/data/quickdrawings/harp.ndjson
+/home/thompson/data/quickdrawings/raccoon.ndjson
+/home/thompson/data/quickdrawings/backpack.ndjson
+/home/thompson/data/quickdrawings/tractor.ndjson
+/home/thompson/data/quickdrawings/ceiling fan.ndjson
+/home/thompson/data/quickdrawings/baseball bat.ndjson
+/home/thompson/data/quickdrawings/shovel.ndjson
+/home/thompson/data/quickdrawings/paint can.ndjson
+/home/thompson/data/quickdrawings/sleeping bag.ndjson
+/home/thompson/data/quickdrawings/pond.ndjson
+/home/thompson/data/quickdrawings/cell phone.ndjson
+/home/thompson/data/quickdrawings/leaf.ndjson
+/home/thompson/data/quickdrawings/toilet.ndjson
+/home/thompson/data/quickdrawings/frog.ndjson
+/home/thompson/data/quickdrawings/syringe.ndjson
+/home/thompson/data/quickdrawings/popsicle.ndjson
+/home/thompson/data/quickdrawings/palm tree.ndjson
+/home/thompson/data/quickdrawings/compass.ndjson
+/home/thompson/data/quickdrawings/hockey stick.ndjson
+/home/thompson/data/quickdrawings/map.ndjson
+/home/thompson/data/quickdrawings/eraser.ndjson
+/home/thompson/data/quickdrawings/axe.ndjson
+/home/thompson/data/quickdrawings/bus.ndjson
+/home/thompson/data/quickdrawings/pants.ndjson
+/home/thompson/data/quickdrawings/paper clip.ndjson
+/home/thompson/data/quickdrawings/school bus.ndjson
+/home/thompson/data/quickdrawings/microphone.ndjson
+/home/thompson/data/quickdrawings/keyboard.ndjson
+/home/thompson/data/quickdrawings/piano.ndjson
+/home/thompson/data/quickdrawings/lion.ndjson
+/home/thompson/data/quickdrawings/swing set.ndjson
+/home/thompson/data/quickdrawings/monkey.ndjson
+/home/thompson/data/quickdrawings/clarinet.ndjson
+/home/thompson/data/quickdrawings/barn.ndjson
+/home/thompson/data/quickdrawings/jacket.ndjson
+/home/thompson/data/quickdrawings/television.ndjson
+/home/thompson/data/quickdrawings/train.ndjson
+/home/thompson/data/quickdrawings/megaphone.ndjson
+/home/thompson/data/quickdrawings/cannon.ndjson
+/home/thompson/data/quickdrawings/umbrella.ndjson
+/home/thompson/data/quickdrawings/sea turtle.ndjson
+/home/thompson/data/quickdrawings/cat.ndjson
+/home/thompson/data/quickdrawings/sweater.ndjson
+/home/thompson/data/quickdrawings/pliers.ndjson
+/home/thompson/data/quickdrawings/horse.ndjson
+/home/thompson/data/quickdrawings/stereo.ndjson
+/home/thompson/data/quickdrawings/diamond.ndjson
+/home/thompson/data/quickdrawings/t-shirt.ndjson
+/home/thompson/data/quickdrawings/mouth.ndjson
+/home/thompson/data/quickdrawings/sink.ndjson
+/home/thompson/data/quickdrawings/pool.ndjson
+/home/thompson/data/quickdrawings/hedgehog.ndjson
+/home/thompson/data/quickdrawings/hockey puck.ndjson
+/home/thompson/data/quickdrawings/house.ndjson
+/home/thompson/data/quickdrawings/duck.ndjson
+/home/thompson/data/quickdrawings/fire hydrant.ndjson
+/home/thompson/data/quickdrawings/elbow.ndjson
+/home/thompson/data/quickdrawings/rifle.ndjson
+/home/thompson/data/quickdrawings/kangaroo.ndjson
+/home/thompson/data/quickdrawings/birthday cake.ndjson
+/home/thompson/data/quickdrawings/mermaid.ndjson
+/home/thompson/data/quickdrawings/binoculars.ndjson
+/home/thompson/data/quickdrawings/lollipop.ndjson
+/home/thompson/data/quickdrawings/knee.ndjson
+/home/thompson/data/quickdrawings/castle.ndjson
+/home/thompson/data/quickdrawings/matches.ndjson
+/home/thompson/data/quickdrawings/rollerskates.ndjson
+/home/thompson/data/quickdrawings/coffee cup.ndjson
+/home/thompson/data/quickdrawings/banana.ndjson
+/home/thompson/data/quickdrawings/fish.ndjson
+/home/thompson/data/quickdrawings/dishwasher.ndjson
+/home/thompson/data/quickdrawings/submarine.ndjson
+/home/thompson/data/quickdrawings/knife.ndjson
+/home/thompson/data/quickdrawings/sock.ndjson
+/home/thompson/data/quickdrawings/pineapple.ndjson
+/home/thompson/data/quickdrawings/trombone.ndjson
+/home/thompson/data/quickdrawings/ear.ndjson
+/home/thompson/data/quickdrawings/basket.ndjson
+/home/thompson/data/quickdrawings/calendar.ndjson
+/home/thompson/data/quickdrawings/wine bottle.ndjson
+/home/thompson/data/quickdrawings/The Great Wall of China.ndjson
+/home/thompson/data/quickdrawings/wine glass.ndjson
+/home/thompson/data/quickdrawings/hospital.ndjson
+/home/thompson/data/quickdrawings/teddy-bear.ndjson
+/home/thompson/data/quickdrawings/face.ndjson
+/home/thompson/data/quickdrawings/purse.ndjson
+/home/thompson/data/quickdrawings/beard.ndjson
+/home/thompson/data/quickdrawings/eye.ndjson
+/home/thompson/data/quickdrawings/suitcase.ndjson
+/home/thompson/data/quickdrawings/flying saucer.ndjson
+/home/thompson/data/quickdrawings/necklace.ndjson
+/home/thompson/data/quickdrawings/snowman.ndjson
+/home/thompson/data/quickdrawings/yoga.ndjson
+/home/thompson/data/quickdrawings/washing machine.ndjson
+/home/thompson/data/quickdrawings/drill.ndjson
+/home/thompson/data/quickdrawings/rainbow.ndjson
+/home/thompson/data/quickdrawings/bear.ndjson
+/home/thompson/data/quickdrawings/tent.ndjson
+/home/thompson/data/quickdrawings/police car.ndjson
+/home/thompson/data/quickdrawings/mushroom.ndjson
+/home/thompson/data/quickdrawings/pizza.ndjson
+/home/thompson/data/quickdrawings/eyeglasses.ndjson
+/home/thompson/data/quickdrawings/garden.ndjson
+/home/thompson/data/quickdrawings/penguin.ndjson
+/home/thompson/data/quickdrawings/brain.ndjson
+/home/thompson/data/quickdrawings/motorbike.ndjson
+/home/thompson/data/quickdrawings/mountain.ndjson
+/home/thompson/data/quickdrawings/envelope.ndjson
+/home/thompson/data/quickdrawings/drums.ndjson
+/home/thompson/data/quickdrawings/light bulb.ndjson
+/home/thompson/data/quickdrawings/calculator.ndjson
+/home/thompson/data/quickdrawings/scorpion.ndjson
+/home/thompson/data/quickdrawings/bracelet.ndjson
+/home/thompson/data/quickdrawings/frying pan.ndjson
+/home/thompson/data/quickdrawings/stairs.ndjson
+/home/thompson/data/quickdrawings/flower.ndjson
+/home/thompson/data/quickdrawings/saxophone.ndjson
+/home/thompson/data/quickdrawings/computer.ndjson
+/home/thompson/data/quickdrawings/rabbit.ndjson
+/home/thompson/data/quickdrawings/rhinoceros.ndjson
+/home/thompson/data/quickdrawings/dolphin.ndjson
+/home/thompson/data/quickdrawings/van.ndjson
+/home/thompson/data/quickdrawings/aircraft carrier.ndjson
+/home/thompson/data/quickdrawings/flip flops.ndjson
+/home/thompson/data/quickdrawings/panda.ndjson
+/home/thompson/data/quickdrawings/hamburger.ndjson
+/home/thompson/data/quickdrawings/saw.ndjson
+/home/thompson/data/quickdrawings/smiley face.ndjson
+/home/thompson/data/quickdrawings/bottlecap.ndjson
+/home/thompson/data/quickdrawings/vase.ndjson
+/home/thompson/data/quickdrawings/pear.ndjson
+/home/thompson/data/quickdrawings/flamingo.ndjson
+/home/thompson/data/quickdrawings/screwdriver.ndjson
+/home/thompson/data/quickdrawings/spoon.ndjson
+/home/thompson/data/quickdrawings/cup.ndjson
+/home/thompson/data/quickdrawings/lantern.ndjson
+/home/thompson/data/quickdrawings/teapot.ndjson
+/home/thompson/data/quickdrawings/toothbrush.ndjson
+/home/thompson/data/quickdrawings/garden hose.ndjson
+/home/thompson/data/quickdrawings/grass.ndjson
+/home/thompson/data/quickdrawings/canoe.ndjson

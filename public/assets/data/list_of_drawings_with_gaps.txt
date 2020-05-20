@@ -1,0 +1,51 @@
+/home/thompson/data/quickdrawings/hot tub.ndjson
+/home/thompson/data/quickdrawings/roller coaster.ndjson
+/home/thompson/data/quickdrawings/remote control.ndjson
+/home/thompson/data/quickdrawings/animal migration.ndjson
+/home/thompson/data/quickdrawings/picture frame.ndjson
+/home/thompson/data/quickdrawings/hot air balloon.ndjson
+/home/thompson/data/quickdrawings/pickup truck.ndjson
+/home/thompson/data/quickdrawings/stop sign.ndjson
+/home/thompson/data/quickdrawings/see saw.ndjson
+/home/thompson/data/quickdrawings/ice cream.ndjson
+/home/thompson/data/quickdrawings/floor lamp.ndjson
+/home/thompson/data/quickdrawings/golf club.ndjson
+/home/thompson/data/quickdrawings/traffic light.ndjson
+/home/thompson/data/quickdrawings/cruise ship.ndjson
+/home/thompson/data/quickdrawings/The Mona Lisa.ndjson
+/home/thompson/data/quickdrawings/alarm clock.ndjson
+/home/thompson/data/quickdrawings/string bean.ndjson
+/home/thompson/data/quickdrawings/tennis racquet.ndjson
+/home/thompson/data/quickdrawings/power outlet.ndjson
+/home/thompson/data/quickdrawings/hot dog.ndjson
+/home/thompson/data/quickdrawings/The Eiffel Tower.ndjson
+/home/thompson/data/quickdrawings/diving board.ndjson
+/home/thompson/data/quickdrawings/house plant.ndjson
+/home/thompson/data/quickdrawings/soccer ball.ndjson
+/home/thompson/data/quickdrawings/ceiling fan.ndjson
+/home/thompson/data/quickdrawings/baseball bat.ndjson
+/home/thompson/data/quickdrawings/paint can.ndjson
+/home/thompson/data/quickdrawings/sleeping bag.ndjson
+/home/thompson/data/quickdrawings/cell phone.ndjson
+/home/thompson/data/quickdrawings/palm tree.ndjson
+/home/thompson/data/quickdrawings/hockey stick.ndjson
+/home/thompson/data/quickdrawings/paper clip.ndjson
+/home/thompson/data/quickdrawings/school bus.ndjson
+/home/thompson/data/quickdrawings/swing set.ndjson
+/home/thompson/data/quickdrawings/sea turtle.ndjson
+/home/thompson/data/quickdrawings/hockey puck.ndjson
+/home/thompson/data/quickdrawings/fire hydrant.ndjson
+/home/thompson/data/quickdrawings/birthday cake.ndjson
+/home/thompson/data/quickdrawings/coffee cup.ndjson
+/home/thompson/data/quickdrawings/wine bottle.ndjson
+/home/thompson/data/quickdrawings/The Great Wall of China.ndjson
+/home/thompson/data/quickdrawings/wine glass.ndjson
+/home/thompson/data/quickdrawings/flying saucer.ndjson
+/home/thompson/data/quickdrawings/washing machine.ndjson
+/home/thompson/data/quickdrawings/police car.ndjson
+/home/thompson/data/quickdrawings/light bulb.ndjson
+/home/thompson/data/quickdrawings/frying pan.ndjson
+/home/thompson/data/quickdrawings/aircraft carrier.ndjson
+/home/thompson/data/quickdrawings/flip flops.ndjson
+/home/thompson/data/quickdrawings/smiley face.ndjson
+/home/thompson/data/quickdrawings/garden hose.ndjson
