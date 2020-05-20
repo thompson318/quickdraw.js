@@ -160,6 +160,10 @@ function createImageScene ()
 	}
     
 	game.scene.bringToTop('imagescene');
+	game.scene.stop('welldonescene');
+	game.scene.stop('badluckscene');
+	game.scene.stop('whitescene');
+	game.scene.stop('blackscene');
 }
 
 function createButtonScene ()
@@ -247,14 +251,12 @@ async function on_success(this_game)
 	score += new_inc;
 	scoreText.setText('Score: ' + score);
  	
-	game.scene.run('welldonescene');
 	game.scene.bringToTop('welldonescene');
 	game.scene.stop('imagescene');
 	game.scene.remove('imagescene');
 	await sleep(1000);
 	game.scene.add('imagescene', imageSceneConfig, true);
 	game.scene.bringToTop('imagescene');
-	game.scene.stop('welldonescene');
 
 	update_buttons();
 	
@@ -266,7 +268,6 @@ async function on_fail()
 	lives -= 1;
 	livesText.setText('Lives: ' + lives)
 	
-	game.scene.run('badluckscene');
 	game.scene.stop('imagescene');
 	game.scene.remove('imagescene');
 	game.scene.bringToTop('badluckscene');
@@ -275,7 +276,6 @@ async function on_fail()
 
 	if ( lives > 0 )
 	{
-		game.scene.stop('badluckscene');
 		game.scene.add('imagescene', imageSceneConfig, true);
 		game.scene.bringToTop('imagescene');
 		update_buttons();
