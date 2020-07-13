@@ -70,6 +70,7 @@ var whatWasItText;
 var spotlight;
 var probe;
 var speckle;
+//var WhatItIs = new WhatIsIt();
 
 
 function preloadImageScene ()
@@ -285,6 +286,18 @@ async function on_fail()
 		whatWasItText.setText('Game Over! You scored ' + score);
 		game.scene.stop('buttonscene');
 		game.scene.stop();
+		var promise = WhatItIs.addScore({
+			name: 'anonymous',
+			score: score
+		});
+
+		if (!promise){
+			alert('addScore() failed!');
+		      	return Promise.reject();
+		} else {
+			promises.push(promise);
+		}
+
 	}
 
 

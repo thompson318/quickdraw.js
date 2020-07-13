@@ -13,10 +13,19 @@
             margin: 0;
         }
     </style>
+
+    <!-- Web Application Manifest -->
+    <link rel="manifest" href="manifest.json">
+
 </head>
 <body>
     <!-- The core Firebase JS SDK is always required and must be listed first -->
     <script src="/__/firebase/7.14.3/firebase-app.js"></script>
+    <script src="/__/firebase/7.14.3/firebase-auth.js"></script>
+    <script src="/__/firebase/7.14.3/firebase-firestore.js"></script>
+    <script src="/__/firebase/init.js"></script>
+    
+    <script src="//unpkg.com/navigo@6"></script>
 
     <!-- TODO: Add SDKs for Firebase products that you want to use
      https://firebase.google.com/docs/web/setup#available-libraries -->
@@ -24,6 +33,8 @@
 
     <!-- Initialize Firebase -->
     <script src="/__/firebase/init.js"></script>
+    <script type="text/javascript" src="whatisit.js"></script>
+    <script type="text/javascript" src="src/what_is_it.data.js"></script>
     <script type="text/javascript" src="rnd_quick.js"></script>
 </body>
 </html>
